@@ -1,65 +1,37 @@
-# 🚀 Project Name
+# Hi there, I'm Pradip! 👋
 
-> A brief, compelling one- or two-sentence description of what this project does and the problem it solves.
-
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
-![Version](https://img.shields.io/badge/version-1.0.0-informational.svg)
+Welcome to my GitHub profile! I am an aspiring **Full Stack Developer** with a foundation in **C++**, actively building my skills in web development and software engineering.
 
 ---
 
-## 📸 Demo & Screenshots
+## 🛠️ Tech Stack & Skills
 
-| Landing Page | Dashboard / Main Feature |
-| :---: | :---: |
-| ![Landing Page](https://via.placeholder.com/400x225?text=Landing+Page+Screenshot) | ![Dashboard](https://via.placeholder.com/400x225?text=Dashboard+Screenshot) |
-
-🔗 **Live Demo:** [https://your-project-link.com](https://your-project-link.com)  
-📹 **Video Demo / Walkthrough:** [YouTube / Loom Link](https://youtube.com)
+- **Languages:** C++, C, JavaScript, HTML5, CSS3
+- **Web Development:** Node.js, Express, React *(Learning)*
+- **Database:** SQLite, MySQL / PostgreSQL
+- **Tools & Platforms:** Git, GitHub, VS Code, Linux
 
 ---
 
-## ✨ Features
+## 🎯 Current Goals
 
-* **Authentication & Authorization:** Secure JWT / OAuth2 user flows.
-* **REST / GraphQL API:** Scalable endpoints for core business logic.
-* **Responsive UI:** Mobile-first, modern UI/UX design.
-* **Database Management:** Optimized queries, ORM migrations, and indexing.
-* **Real-time Capabilities:** WebSockets for live notifications/chat (if applicable).
+- 📚 Learning full-stack web development frameworks.
+- 💡 Building my first end-to-end full-stack projects.
+- ⚙️ Applying C++ logic & data structures to core software development concepts.
 
 ---
 
-## 🛠️ Tech Stack
+## 📂 Projects
 
-### Frontend
-* **Framework:** React / Next.js / Vue / Angular
-* **Styling:** Tailwind CSS / Styled Components / Material UI
-* **State Management:** Redux Toolkit / Zustand / React Query
-
-### Backend
-* **Runtime / Framework:** Node.js (Express/NestJS) / Python (Django/FastAPI) / Go
-* **Database:** PostgreSQL / MongoDB / MySQL
-* **ORM / Database Tools:** Prisma / TypeORM / Mongoose / SQLAlchemy
-* **Authentication:** NextAuth / Passport.js / Firebase Auth
-
-### DevOps & Infrastructure
-* **Deployment:** Vercel (Frontend), Render / AWS / DigitalOcean (Backend)
-* **Containerization:** Docker & Docker Compose
-* **CI/CD:** GitHub Actions
+*(Projects coming soon! Stay tuned as I share my latest builds here.)*
 
 ---
 
-## 🏗️ System Architecture
+## 📬 Connect with Me
 
-```text
-┌─────────────────┐       HTTP / WS       ┌─────────────────┐
-│                 │ ────────────────────> │                 │
-│ React / Next.js │                       │ Node / Express  │
-│    (Frontend)   │ <──────────────────── │    (Backend)    │
-└─────────────────┘                       └────────┬────────┘
-                                                   │
-                                              ORM  │
-                                                   ▼
-                                          ┌─────────────────┐
-                                          │ PostgreSQL / DB │
-                                          └─────────────────┘
+- **GitHub:** [@pradipDev50](https://github.com/pradipDev50)
+- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+
+---
+
+*“Every great developer started with a single line of code.”*
